@@ -1,11 +1,10 @@
 # Hi there, I'm Okoye Emmanuel 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px; display: block; margin-left: auto; margin-right: auto;" align="center" class="fade-in">
+![Software Engineer Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## Software Developer | Full Stack Engineer
 
-<p style="font-size: 20px; font-weight: bold; color: wheat; margin-top: 20px; margin-bottom: 20px;">
-I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**. My expertise ranges from web development to automation, data analysis, and more. I have a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I enjoy solving complex problems and delivering optimized solutions.</p>
+I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**. My expertise ranges from web development to automation, data analysis, and more. I have a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I enjoy solving complex problems and delivering optimized solutions.
 
 ## 👨‍💻 About Me
 
