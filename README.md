@@ -31,14 +31,20 @@ Here are some of the technologies I work with:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+
+
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+
+
 ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+
+
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-333?style=flat&logo=restapi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
