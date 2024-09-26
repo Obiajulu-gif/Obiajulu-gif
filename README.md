@@ -4,23 +4,28 @@
 
 ## Software Developer | Full Stack Engineer
 
-I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**. My expertise ranges from web development to automation, data analysis, and more. I have a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I enjoy solving complex problems and delivering optimized solutions.
+<p style="font-size: 20px; font-weight: bold; color: wheat; margin-top: 20px; margin-bottom: 20px;">
+I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**. My expertise ranges from web development to automation, data analysis, and more. I have a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I enjoy solving complex problems and delivering optimized solutions.</p>
 
 ## 👨‍💻 About Me
+
 - 🌱 Currently learning **Next.js** and deepening my skills in **Web3 and Blockchain**.
 - 🎓 Graduated with a BSc in Pure and Industrial Chemistry from **University of Nigeria, Nsukka**.
 - 🏆 Awarded **Faculty Best Programmer of the Year (2024)** at the Faculty of Physical Science.
 - 💡 Passionate about using technology to drive positive change, and I'm actively involved in several tech communities.
 
 ## 💼 Professional Experience
+
 - **Developer at Young Inspire Nation Foundation** (2023 – Present)
 - **Manager at Divine Mercy Computer** (2017 – 2019)
 
 ## 🎓 Education
+
 - **ALX Software Engineering Program** (2023 – 2024)
 - **Aspire Leadership Program at Harvard University** (2024)
 
 ## 🛠️ Tech Stack
+
 Here are some of the technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -40,9 +45,11 @@ Here are some of the technologies I work with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 
 ## 🏆 Awards & Recognition
+
 - **Best Programmer of the Year** (2024), Faculty of Physical Science, University of Nigeria, Nsukka
 
 ## 📫 Let's Connect
+
 - LinkedIn: [Emmanuel Okoye](https://www.linkedin.com/in/emmanuel-okoye-79a387200/)
 - Email: [okoyeemmanuelobiajulu@gmail.com](mailto:okoyeemmanuelobiajulu@gmail.com)
 
