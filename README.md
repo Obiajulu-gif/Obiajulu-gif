@@ -1,4 +1,4 @@
-# Hi there, I'm Okoye Emmanuel 👋
+# Hi Fam, I'm Okoye Emmanuel 👋
 
 ![Software Engineer Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
