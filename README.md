@@ -1,4 +1,4 @@
-# Hi Fam, I'm Okoye Emmanuel 👋
+# Hi, I'm Okoye Emmanuel 👋
 
 ![Software Engineer Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -52,6 +52,8 @@ Here are some of the technologies I work with:
 ## 🏆 Awards & Recognition
 
 - **Best Programmer of the Year** (2024), Faculty of Physical Science, University of Nigeria, Nsukka
+- **Second place winner of BlockchainUNN hackathon** (2024)
+- **Second place winner of SUI on campus hackathon** (2024)
 
 ## 📫 Let's Connect
 
