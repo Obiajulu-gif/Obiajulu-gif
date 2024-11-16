@@ -63,5 +63,5 @@ Here are some of the technologies I work with:
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Obiajulu-gif&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&theme=radical)
 ![Okoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&theme=radical)
