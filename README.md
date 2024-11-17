@@ -65,3 +65,9 @@ Here are some of the technologies I work with:
 
 ![Okoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/okoye_emma_obi)
+ [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2349069406647)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:okoyeemmanuelobiajulu@gmail.com)
+ [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/okoyeemmanuelobiajulu)
