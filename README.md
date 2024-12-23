@@ -29,20 +29,20 @@ Here are some of the technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
 
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
 
 ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 
 
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
@@ -54,6 +54,8 @@ Here are some of the technologies I work with:
 - **Best Programmer of the Year** (2024), Faculty of Physical Science, University of Nigeria, Nsukka
 - **Second place winner of BlockchainUNN hackathon** (2024)
 - **Second place winner of SUI on campus hackathon** (2024)
+- **Second place winner of Nextbridge Africa hackathon** (2024)
+- **Winner Rabble Ideathon** (2024)
 
 ## 📫 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/okoye_emma_obi)
