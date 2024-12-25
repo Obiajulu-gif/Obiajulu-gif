@@ -8,7 +8,7 @@ I'm a versatile software developer with a passion for creating innovative soluti
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Next.js** and deepening my skills in **Web3 and Blockchain**.
+- 🌱 Currently learning **Artifical Intelligent** and deepening my skills in **Web3 and Blockchain**.
 - 🎓 Graduated with a BSc in Pure and Industrial Chemistry from **University of Nigeria, Nsukka**.
 - 🏆 Awarded **Faculty Best Programmer of the Year (2024)** at the Faculty of Physical Science.
 - 💡 Passionate about using technology to drive positive change, and I'm actively involved in several tech communities.
@@ -17,6 +17,7 @@ I'm a versatile software developer with a passion for creating innovative soluti
 
 - **Developer at Young Inspire Nation Foundation** (2023 – Present)
 - **Manager at Divine Mercy Computer** (2017 – 2019)
+- **Software Developer at Netwiver technologies** (2024 - present)
 
 ## 🎓 Education
 
