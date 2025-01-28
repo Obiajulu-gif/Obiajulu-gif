@@ -70,5 +70,5 @@ Here are some of the technologies I work with:
 
 ![Okoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Obiajulu-gif&theme=react-dark)
+[![Obiajulu-gif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
