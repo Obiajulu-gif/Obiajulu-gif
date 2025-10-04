@@ -57,6 +57,7 @@ Here are some of the technologies I work with:
 - **Second place winner of SUI on campus hackathon** (2024)
 - **Second place winner of Nextbridge Africa hackathon** (2024)
 - **Winner Rabble Ideathon** (2024)
+- **Winner Enugu Pop city hackathon** (2025)
 
 ## 📫 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/okoye_emma_obi)
