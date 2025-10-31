@@ -72,4 +72,8 @@ Here are some of the technologies I work with:
 ![Okoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&theme=radical)
 
 [![Obiajulu-gif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=z3roai&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+[![Obiajulu-gif's github activity graph](https://github-profile-trophy.vercel.app?username=Obiajulu-gif&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
