@@ -7,8 +7,8 @@
 
 ## Software Developer | Full Stack Engineer  
 
-I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**.  
-My expertise spans web development, automation, data analysis, and emerging technologies like **Blockchain** and **Artificial Intelligence**.  
+I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, **Rust** and **Solidity**.  
+My expertise spans web development, automation, Agentic AI, and emerging technologies like **Blockchain** and **Artificial Intelligence**.  
 I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, creating decentralized and intelligent solutions that push the boundaries of innovation.  
 I enjoy solving complex problems and delivering efficient, scalable, and impactful software solutions.
 
