@@ -1,23 +1,38 @@
 # Hi, I'm Okoye Emmanuel 👋
 
-![Software Engineer Typing](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## Software Developer | Full Stack Engineer
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top;">
 
-I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**. My expertise ranges from web development to automation, data analysis, and more. I have a strong foundation in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), and I enjoy solving complex problems and delivering optimized solutions.
+## Software Developer | Full Stack Engineer  
+
+I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, and **C**.  
+My expertise spans web development, automation, data analysis, and emerging technologies like **Blockchain** and **Artificial Intelligence**.  
+I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, creating decentralized and intelligent solutions that push the boundaries of innovation.  
+I enjoy solving complex problems and delivering efficient, scalable, and impactful software solutions.
+
+  </td>
+  <td style="border: none;">
+    <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
+  </td>
+  </tr>
+</table>
+
 
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning **Artifical Intelligent** and deepening my skills in **Web3 and Blockchain**.
-- 🎓 Graduated with a BSc in Pure and Industrial Chemistry from **University of Nigeria, Nsukka**.
+- 🎓 Graduated with a BSc in Pure and Industrial Chemistry from **University of Nigeria, Nsukka** (Second Class Upper Division).
 - 🏆 Awarded **Faculty Best Programmer of the Year (2024)** at the Faculty of Physical Science.
 - 💡 Passionate about using technology to drive positive change, and I'm actively involved in several tech communities.
 
 ## 💼 Professional Experience
 
-- **Developer at Young Inspire Nation Foundation** (2023 – Present)
 - **Manager at Divine Mercy Computer** (2017 – 2019)
 - **Software Developer at Netwiver technologies** (2024 - present)
+- **Software Developer at FreeLanceDAO** (2025 - present)
+- **Software Developer at ChainMove** (2025 - present)
 
 ## 🎓 Education
 
