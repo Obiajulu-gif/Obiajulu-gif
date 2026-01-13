@@ -83,14 +83,14 @@ Here are some of the technologies I work with:
 ## 🏆 Awards & Recognition
 
 - **Best Programmer of the Year** (2024), Faculty of Physical Science, University of Nigeria, Nsukka
-- **Second place winner of BlockchainUNN hackathon** (2024)
+- **Second place winner of BlockchainUNN hackathon 3.0** (2024)
 - **Second place winner of SUI on campus hackathon** (2024)
 - **Second place winner of Nextbridge Africa hackathon** (2024)
 - **Winner Rabble Ideathon** (2024)
 - **Winner Plogging Nigeria Climate Festival hackathon** (2025)
 - **Winner Enugu Pop city hackathon** (2025)
 - **Second Place winner Anambra Web3 hackathon** (2025)
-- **Winner of BlockchainUNN hackathon** (2025)
+- **Winner of BlockchainUNN hackathon 4.0** (2025)
 
 ## 📫 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/okoye_emma_obi)
