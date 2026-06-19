@@ -44,6 +44,7 @@ I enjoy solving complex problems and delivering efficient, scalable, and impactf
 - **Software Developer at Netwiver technologies** (2024 - present)
 - **Software Developer at FreeLanceDAO** (2025 - present)
 - **Software Developer at ChainMove** (2025 - present)
+- **Software Developer at Domain-Plus International Limited** (2026 - present)
 
 ## 🎓 Education
 
