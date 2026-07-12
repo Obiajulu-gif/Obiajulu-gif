@@ -15,26 +15,20 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="62%">
+<img align="right" width="340" src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" alt="Coding animation"/>
 
 I'm a versatile software developer who loves turning complex problems into clean, scalable products. I work across **web development**, **automation**, **Agentic AI**, and **Web3**, using **Python**, **JavaScript / TypeScript**, **Rust**, and **Solidity**.
 
-I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shipping decentralized and intelligent applications. I care about efficient, maintainable code and delivering real impact — most recently as a repeat hackathon winner across Africa's Web3 ecosystem.
+I actively build on **Stellar**, **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shipping decentralized and intelligent applications. I care about efficient, maintainable code and delivering real impact — most recently as a repeat hackathon winner across Africa's Web3 ecosystem.
 
 - 🔭 Building at the intersection of **AI Agents** and **Blockchain**
+- 🌍 Active **open-source contributor** to **Drip Wave** and **GrantFox**
 - 🌱 Deepening my expertise in **Artificial Intelligence** and **Web3 protocols**
 - 🎓 BSc, Pure & Industrial Chemistry — University of Nigeria, Nsukka *(Second Class Upper)*
 - 🏆 **Faculty Best Programmer of the Year (2024)**, Faculty of Physical Sciences, UNN
 - 💬 Ask me about **Full-Stack Development, Smart Contracts, or AI Agents**
 
-    </td>
-    <td valign="top" width="38%">
-      <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="100%" alt="Coding animation"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -67,6 +61,17 @@ I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shi
 - **Aspire Leadership Program** — Harvard University (2024)
 - **ALX Software Engineering Program** (2023 – 2024)
 - **BSc, Pure & Industrial Chemistry** — University of Nigeria, Nsukka
+
+---
+
+## 🌍 Open Source
+
+Active contributor to community-driven Web3 projects:
+
+- **[Drip Wave](https://github.com/Obiajulu-gif)** — contributing features, fixes, and improvements
+- **[GrantFox](https://github.com/Obiajulu-gif)** — contributing features, fixes, and improvements
+
+> 💡 Open to collaborating on more open-source projects — feel free to reach out or tag me in an issue.
 
 ---
 
@@ -104,8 +109,11 @@ I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shi
 **Web3 & Blockchain**
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Starknet](https://img.shields.io/badge/-Starknet-EC796B?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![Stellar](https://img.shields.io/badge/-Stellar-000000?style=flat&logo=stellar&logoColor=white)
+![Starknet](https://img.shields.io/badge/-Starknet-0C0C4F?style=flat&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Lisk](https://img.shields.io/badge/-Lisk-4070F4?style=flat&logo=lisk&logoColor=white)
+![Avalanche](https://img.shields.io/badge/-Avalanche-E84142?style=flat&logo=avalanche&logoColor=white)
 
 **DevOps & Tools**
 
@@ -125,7 +133,7 @@ I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shi
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obiajulu-gif&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Obiajulu-gif&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
