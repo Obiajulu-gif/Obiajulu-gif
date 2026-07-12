@@ -68,8 +68,8 @@ I actively build on **Stellar**, **Starknet**, **Lisk**, **Avalanche**, and **Et
 
 Active contributor to community-driven Web3 projects:
 
-- **[Drip Wave](https://github.com/Obiajulu-gif)** — contributing features, fixes, and improvements
-- **[GrantFox](https://github.com/Obiajulu-gif)** — contributing features, fixes, and improvements
+- **[Drip Wave](https://www.drips.network/wave)** — contributing features, fixes, and improvements
+- **[GrantFox](https://www.grantfox.xyz/)** — contributing features, fixes, and improvements
 
 > 💡 Open to collaborating on more open-source projects — feel free to reach out or tag me in an issue.
 
@@ -134,7 +134,9 @@ Active contributor to community-driven Web3 projects:
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Obiajulu-gif&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
 
 <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 ---
 
 <p align="center"><i>⚡ Always open to collaborating on impactful Web3 and AI projects. Let's build something great!</i></p>
