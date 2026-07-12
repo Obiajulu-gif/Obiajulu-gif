@@ -1,114 +1,145 @@
-# Hi, I'm Okoye Emmanuel 👋
+<h1 align="center">Hi, I'm Okoye Emmanuel 👋</h1>
 
+<p align="center">
+  <b>Software Developer · Full-Stack Engineer · Blockchain & AI Builder</b>
+</p>
 
-<table style="border: none;">
+<p align="center">
+  <a href="https://x.com/okoye_emma_obi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/emmanuel-okoye-79a387200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:okoyeemmanuelobiajulu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/okoyeemmanuelobiajulu"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://wa.me/2349069406647"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Obiajulu-gif&color=blueviolet&style=flat&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+<table>
   <tr>
-    <td style="border: none; vertical-align: top;">
+    <td valign="top" width="62%">
 
-## Software Developer | Full Stack Engineer  
+I'm a versatile software developer who loves turning complex problems into clean, scalable products. I work across **web development**, **automation**, **Agentic AI**, and **Web3**, using **Python**, **JavaScript / TypeScript**, **Rust**, and **Solidity**.
 
-I'm a versatile software developer with a passion for creating innovative solutions using **Python**, **JavaScript**, **Rust** and **Solidity**.  
-My expertise spans web development, automation, Agentic AI, and emerging technologies like **Blockchain** and **Artificial Intelligence**.  
-I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, creating decentralized and intelligent solutions that push the boundaries of innovation.  
-I enjoy solving complex problems and delivering efficient, scalable, and impactful software solutions.
+I actively build on **Starknet**, **Lisk**, **Avalanche**, and **Ethereum**, shipping decentralized and intelligent applications. I care about efficient, maintainable code and delivering real impact — most recently as a repeat hackathon winner across Africa's Web3 ecosystem.
 
-  </td>
-  <td style="border: none;">
-    <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
-  </td>
+- 🔭 Building at the intersection of **AI Agents** and **Blockchain**
+- 🌱 Deepening my expertise in **Artificial Intelligence** and **Web3 protocols**
+- 🎓 BSc, Pure & Industrial Chemistry — University of Nigeria, Nsukka *(Second Class Upper)*
+- 🏆 **Faculty Best Programmer of the Year (2024)**, Faculty of Physical Sciences, UNN
+- 💬 Ask me about **Full-Stack Development, Smart Contracts, or AI Agents**
+
+    </td>
+    <td valign="top" width="38%">
+      <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="100%" alt="Coding animation"/>
+    </td>
   </tr>
 </table>
 
+---
+
 ## 🏆 Awards & Recognition
 
-- **Best Programmer of the Year** (2024), Faculty of Physical Science, University of Nigeria, Nsukka
-- **Second place winner of BlockchainUNN hackathon 3.0** (2024)
-- **Second place winner of SUI on campus hackathon** (2024)
-- **Second place winner of Nextbridge Africa hackathon** (2024)
-- **Winner Rabble Ideathon** (2024)
-- **Winner Plogging Nigeria Climate Festival hackathon** (2025)
-- **Winner Enugu Pop city hackathon** (2025)
-- **Second Place winner Anambra Web3 hackathon** (2025)
-- **Winner of BlockchainUNN hackathon 4.0** (2025)
+| Year | Achievement |
+|------|-------------|
+| 2025 | 🥇 Winner — **BlockchainUNN Hackathon 4.0** |
+| 2025 | 🥇 Winner — **Enugu Pop City Hackathon** |
+| 2025 | 🥇 Winner — **Plogging Nigeria Climate Festival Hackathon** |
+| 2025 | 🥈 Second Place — **Anambra Web3 Hackathon** |
+| 2024 | 🥇 **Best Programmer of the Year** — Faculty of Physical Sciences, UNN |
+| 2024 | 🥇 Winner — **Rabble Ideathon** |
+| 2024 | 🥈 Second Place — **BlockchainUNN Hackathon 3.0** |
+| 2024 | 🥈 Second Place — **SUI On-Campus Hackathon** |
+| 2024 | 🥈 Second Place — **Nextbridge Africa Hackathon** |
 
-## 👨‍💻 About Me
+---
 
-- 🌱 Currently learning **Artifical Intelligent** and deepening my skills in **Web3 and Blockchain**.
-- 🎓 Graduated with a BSc in Pure and Industrial Chemistry from **University of Nigeria, Nsukka** (Second Class Upper Division).
-- 🏆 Awarded **Faculty Best Programmer of the Year (2024)** at the Faculty of Physical Science.
-- 💡 Passionate about using technology to drive positive change, and I'm actively involved in several tech communities.
+## 💼 Experience
 
-## 💼 Professional Experience
+- **Software Developer** — *Domain-Plus International Limited* (2026 – Present)
+- **Software Developer** — *ChainMove* (2025 – Present)
+- **Software Developer** — *FreeLanceDAO* (2025 – Present)
+- **Software Developer** — *Netwiver Technologies* (2024 – Present)
+- **Manager** — *Divine Mercy Computer* (2017 – 2019)
 
-- **Manager at Divine Mercy Computer** (2017 – 2019)
-- **Software Developer at Netwiver technologies** (2024 - present)
-- **Software Developer at FreeLanceDAO** (2025 - present)
-- **Software Developer at ChainMove** (2025 - present)
-- **Software Developer at Domain-Plus International Limited** (2026 - present)
+## 🎓 Education & Programs
 
-## 🎓 Education
-
+- **Aspire Leadership Program** — Harvard University (2024)
 - **ALX Software Engineering Program** (2023 – 2024)
-- **Aspire Leadership Program at Harvard University** (2024)
+- **BSc, Pure & Industrial Chemistry** — University of Nigeria, Nsukka
+
+---
 
 ## 🛠️ Tech Stack
 
-Here are some of the technologies I work with:
+**Languages**
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+**Frontend**
 
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-333?style=flat&logo=restapi)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+**Backend & Databases**
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-02569B?style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+**Web3 & Blockchain**
 
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Starknet](https://img.shields.io/badge/-Starknet-EC796B?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 
+**DevOps & Tools**
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 
-## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/okoye_emma_obi)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/2349069406647)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:okoyeemmanuelobiajulu@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/okoyeemmanuelobiajulu)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-okoye-79a387200/)
+---
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Obiajulu-gif&color=blue)
 
-![Okoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&theme=radical)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obiajulu-gif&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-[![Obiajulu-gif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Obiajulu-gif&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Obiajulu-gif&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center"><i>⚡ Always open to collaborating on impactful Web3 and AI projects. Let's build something great!</i></p>
