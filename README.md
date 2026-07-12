@@ -24,7 +24,7 @@ I actively build on **Stellar**, **Starknet**, **Lisk**, **Avalanche**, and **Et
 - 🔭 Building at the intersection of **AI Agents** and **Blockchain**
 - 🌍 Active **open-source contributor** to **Drip Wave** and **GrantFox**
 - 🌱 Deepening my expertise in **Artificial Intelligence** and **Web3 protocols**
-- 🎓 BSc, Pure & Industrial Chemistry — University of Nigeria, Nsukka *(Second Class Upper)*
+- 🎓 BSc, Pure & Industrial Chemistry — University of Nigeria, Nsukka - 4.28/5.00, *(Second Class Upper)* 
 - 🏆 **Faculty Best Programmer of the Year (2024)**, Faculty of Physical Sciences, UNN
 - 💬 Ask me about **Full-Stack Development, Smart Contracts, or AI Agents**
 
@@ -131,22 +131,9 @@ Active contributor to community-driven Web3 projects:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obiajulu-gif&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Obiajulu-gif&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Obiajulu-gif&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Obiajulu-gif&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
+<img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Obiajulu-gif&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Top Languages"/>
 
 ---
 
