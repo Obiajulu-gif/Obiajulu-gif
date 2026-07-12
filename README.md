@@ -127,7 +127,7 @@ Active contributor to community-driven Web3 projects:
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -137,6 +137,6 @@ Active contributor to community-driven Web3 projects:
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obiajulu-gif&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
----
+
 
 <p align="center"><i>⚡ Always open to collaborating on impactful Web3 and AI projects. Let's build something great!</i></p>
