@@ -36,7 +36,7 @@ I actively build on **Stellar**, **Starknet**, **Lisk**, **Avalanche**, and **Et
 
 | Year | Achievement |
 |------|-------------|
-| 2026 | 🥉 Third  — **Monnify API Developer Challenge Lagos ** |
+| 2026 | 🥉 Third  — **Monnify API Developer Challenge Lagos** |
 | 2026 | 🥉 Fourth — **Google Developer Hackathon COOU** |
 | 2025 | 🥇 Winner — **BlockchainUNN Hackathon 4.0** |
 | 2025 | 🥇 Winner — **Enugu Pop City Hackathon** |
